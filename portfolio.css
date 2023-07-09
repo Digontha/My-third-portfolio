@@ -61,3 +61,101 @@ span{
     border: none;
     cursor: pointer;
 }
+main{
+    background-image: url(./img3/footer-bg.png);
+    background-color: rgba(0, 0, 0, 0.952);
+    background-blend-mode: overlay;
+    height: 100vh;
+    color: white;
+    
+
+}
+.sl{
+    display: flex;
+    width: 600px;
+    margin-left: 300px;
+    
+    
+         
+}
+.help{
+    margin-top: 20px;
+    font-size: 40px;
+}
+.btnservice{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 300px;
+
+}
+.pera3{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ol{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ceo{
+    width: 100px ;
+    border: none;
+    border-radius: 50%;
+}
+.intro{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 10px;
+}
+.more{
+ width: 100px;
+ padding: 10px;
+ text-align: center;
+ font-size: 10px;
+ font-weight: bold;
+    
+ 
+ 
+    
+    
+}
+.info{
+    display: flex;
+    align-items: center;
+    gap: 80px;;}
+
+    .webimg{
+        width: 70px;
+        margin-bottom: 20pxpx;
+        margin-top:10px ;
+    }
+.boxs{
+    width: 100px;
+    height: 100px;
+    padding: 80px;
+    background-color: white;
+    color: black;
+    margin-bottom: 100px;
+    margin-left: 30px;
+    text-align: center;
+    border: none;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    
+}
+.box{
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+    border:none;
+    margin-top: 20px;
+    
+    
+}
+.conteinar{
+    margin-top: 210px;
+}
+
