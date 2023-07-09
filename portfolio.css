@@ -159,3 +159,15 @@ main{
     margin-top: 210px;
 }
 
+.com{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    background-color: red;
+    margin: 200px;
+    padding: 10px;
+margin-top: -0.1px;
+border-radius: 50px;
+.pnmg{
+   width: 200px;}
